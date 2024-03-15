@@ -1,0 +1,62 @@
+/* index.css */
+body,
+html {
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f5f5f5;
+}
+
+.slick-slide {
+  text-align: center;
+}
+
+.slick-slide img {
+  width: 100%;
+  height: auto;
+}
+
+.slider-container {
+  position: relative;
+}
+
+.slider-container .slick-dots {
+  position: absolute;
+  bottom: 20px; /* Adjust as per your design */
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  padding: 0;
+}
+
+.slider-container .slick-dots li {
+  margin: 0 5px;
+}
+
+.slider-container .slick-dots button {
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background-color: #fff;
+  opacity: 0.5;
+  outline: none;
+  border: none;
+}
+
+.slider-container .slick-dots button:hover {
+  opacity: 1;
+}
+
+.slider-container .slick-dots .slick-active button {
+  background-color: #fff;
+  opacity: 1;
+}
