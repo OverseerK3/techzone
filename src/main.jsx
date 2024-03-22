@@ -18,7 +18,7 @@ import Done from './Components/Payment/Done.jsx'
 const router = createBrowserRouter(
   createRoutesFromElements(
     <Route path='/' element={<Layout/>}>
-      <Route path='/home' element ={<FirstCloths/>}/>
+      <Route path='' element ={<FirstCloths/>}/>
       <Route path='/about' element ={<Aboutus/>}/>
       <Route path='/contact' element ={<ContactUS/>}/>
       <Route path='/signin' element ={<Signin/>}/>
