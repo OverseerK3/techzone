@@ -28,7 +28,7 @@ function SliderMain() {
                     {images.map((image, index) => (
                         <div key={index}>
                             {/* Ensure the path to your images is correct */}
-                            <img src={image} alt={`Slide ${index + 1}`} />
+                            <img src={image} alt={`Slide ${index + 1}`} className='h-[200px] lg:h-full w-full]'/>
                         </div>
                     ))}
                 </Slider>
