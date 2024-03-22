@@ -5,11 +5,9 @@ import "slick-carousel/slick/slick-theme.css"; // Update the import path
 
 function SliderMain() {
     const images = [
-        "/Slider/image1.jpg",
-        "/Slider/image2.jpg",
-        "/Slider/image1.jpg",
-        "/Slider/image2.jpg",
-        "/Slider/image1.jpg",
+        "/Slider/s1.jpg",
+        "/Slider/s2.jpg",
+        "/Slider/s3.jpg",   
     ];
 
     const settings = {
