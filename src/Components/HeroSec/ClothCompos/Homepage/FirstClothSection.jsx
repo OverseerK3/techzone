@@ -12,15 +12,15 @@ function FirstClothSection() {
         ],
         ClothNames: [
             "T-SHIRT WITH TAPE DETAILS",
-            "CHECKERED SHIRT",
+            "BOAT SMART WATCH",
             "SKINNY FIT JEANS",
             "APPLE IPHONE 18 PRO MAX",
         ],
         prices: [
-            "$12",
-            "$12",
-            "$12",
-            "$12",
+            "$12.00",
+            "$12.00",
+            "$12.00",
+            "$1099.00",
         ]
     }
 

@@ -14,7 +14,7 @@ function Navbar() {
                     <ul className='flex text-white text-lg '>
                         <li className='ml-6'>
                             <NavLink
-                                to="/home"
+                                to="/"
                             >
                                 Home
                             </NavLink>
