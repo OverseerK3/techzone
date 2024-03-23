@@ -6,15 +6,15 @@ function FirstClothSection() {
 
         images: [
             "/Cloths/tshirt1.png",
-            "/Cloths/checksshirt1.png",
+            "/Electronics/watch.png",
             "/Cloths/jeans1.png",
-            "/Cloths/tshirt2.png",
+            "/Electronics/iphone.png",
         ],
         ClothNames: [
             "T-SHIRT WITH TAPE DETAILS",
             "CHECKERED SHIRT",
             "SKINNY FIT JEANS",
-            "SLEEVE STRIPED T-SHIRT",
+            "APPLE IPHONE 18 PRO MAX",
         ],
         prices: [
             "$12",
